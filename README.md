@@ -1,29 +1,45 @@
-# New Project
+# biton
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+## Re-build the Internet, together!
+> <https://bitonproject.org>
 
-## Available Scripts
 
-### npm start
+### The Internet potluck
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+Connect with your friends and other communities, no matter how far.
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
 
-### npm test
+### A taste of Internet freedom
 
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+biton doesn't share food with snoopy neighbors, or hungry-for-data bullies. 
 
-### npm run build
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+### - Is biton anonymous? - NOT YET!
 
-**For the best production performance:** Add a build bundler plugin like "@snowpack/plugin-webpack" or "@snowpack/plugin-parcel" to your `snowpack.config.json` config file.
+If you need to hide your identity, biton is not ready for that just yet. Instead, take a look at
+[Tor](https://www.torproject.org/) and [I2P](https://geti2p.net) for anonymous browsing, or at
+[Freenet](https://freenetproject.org) for anonymous publishing.
 
-### Q: What about Eject?
 
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+### The juicy details
+
+biton is a peer-to-peer network built around **swarms** --- groups of peers that store encrypted files and relay
+requests through one another. biton swarms interconnect in a global network that provides some degree of plausible
+deniability, meaning that users cannot be sure about who made the original request. In this way, biton can be used for
+bypassing information controls and for building community networks around local data and services.
+
+
+### Come along and BYOb (*Bring Your Own biton)
+
+Make the network stronger by [running a relay](https://github.com/bitonproject/biton-relay),
+[contributing](CONTRIBUTORS.md) to the project,
+[building biton applications](https://github.com/bitonproject/js-libp2p-biton-transport), and volunteering to your local
+community kitchen.
+
+
+> smtp@bitonproject.org
+> [PGP: 567E 168D 9FE7 6EFA 6784  B977 010F F6C7 E9B4 F3BD](bitonproject.gpg)
+
+
+## License
+[BSD 3-Clause](LICENSE)
