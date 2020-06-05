@@ -25,19 +25,19 @@ If you need to hide your identity, biton is not ready for that just yet. Instead
 
 biton is a peer-to-peer network built around **swarms** --- groups of peers that store encrypted files and relay
 requests through one another. biton swarms interconnect in a global network that provides some degree of plausible
-deniability, meaning that users cannot be sure about who made the original request. In this way, biton can be used for
-bypassing information controls and for building community networks around local data and services.
+deniability, meaning that adversaries cannot be sure about who made the original request. In this way, biton can be used
+for bypassing information controls and for building community networks around local data and services.
 
 
 ### Come along and BYOb (*Bring Your Own biton)
 
-Make the network stronger by [running a relay](https://github.com/bitonproject/biton-relay),
+Make the network stronger by [running a relay](https://github.com/bitonproject/biton),
 [contributing](CONTRIBUTORS.md) to the project,
 [building biton applications](https://github.com/bitonproject/js-libp2p-biton-transport), and volunteering to your local
 community kitchen.
 
 
-> smtp@bitonproject.org
+> smtp@bitonproject.org  
 > [PGP: 567E 168D 9FE7 6EFA 6784  B977 010F F6C7 E9B4 F3BD](bitonproject.gpg)
 
 
